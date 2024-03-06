@@ -8,7 +8,7 @@ Test your knowledge of NCEA Level 1 and 2 Kanji characters with our comprehensiv
 2. Vocabulary Challenge
 Improve your Japanese vocabulary through our challenging quizzes that focus on NCEA Level 1 and 2 vocabulary. Enhance your language skills by practicing and mastering essential words and phrases.
 
-3. Easy Interface
+3. Easy Interface:
 The app itself is plain but it extremely easy to navigate.
 
 
