@@ -24,7 +24,5 @@ Start Quizzing:
 Dive into the quizzes and start enhancing your Japanese language skills.
 
 Feedback and Support:
-We value your feedback! If you encounter any issues, have suggestions for improvement, or want to report an error, please contact me at 2129994.
-
-Happy quizzing and best of luck with your NCEA exams! 🇯🇵📚
+If you encounter any issues, have suggestions for improvement, or want to report an error, please contact me at 2129994.
 
